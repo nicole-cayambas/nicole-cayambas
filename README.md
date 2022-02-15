@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicole-cayambas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Laravel
 - 📫 You can reach me at Twitter: https://twitter.com/nikol_codes | Email: nicolescayambas@gmail.com
 
 <!---
